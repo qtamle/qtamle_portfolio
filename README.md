@@ -1,3 +1,7 @@
+# qtamle_portfolio (Forked Version)
+
+This repository is based on the original work by [UnMugViolet Paul Jaguin](https://github.com/UnMugViolet).
+
 # <img src="https://lh6.googleusercontent.com/proxy/O0jtLgr-_kq0MLNcfc-mNens2PSj9oDn4296O8SgMRO2hv4SrTtKjTZN6iecZPdxD67l6YUk26QL0raQ818tXOioabNh1mYpQxQfHw" width="30px" > PorfolioXp
 
 
