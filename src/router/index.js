@@ -10,7 +10,7 @@ const router = createRouter({
       name: 'home',
       component: Loader,
       meta: {
-        title: 'Portfolio | Paul Jaguin - Développeur Web',
+        title: 'Portfolio | Lê Quốc Tâm - Unity Developer',
         metaTags: [
           {
             rel: 'canonical',
@@ -18,20 +18,20 @@ const router = createRouter({
           },
           {
             name: 'title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Lê Quốc Tâm - Unity Developer'
           },
           {
             name: 'description',
             content:
-              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              " Unity Developer passionate about creating engaging 2D gameplay experiences. Proficient in C# and Unity with hands-on experience in building game systems, multiplayer mechanics (Netcode for GameObjects), and data-driven tools (ScriptableObject, State Pattern). Demonstrated ability to design and implement UI/UX, animation rigging, and game logic.  Familiar with asynchronous programming and fundamental data structures. Strong problem-solving mindset, fast learner, and committed to delivering clean, scalable, and maintainable code.."
           },
           {
             name: 'keywords',
-            content: 'portfolio, paul jaguin, développeur web, full stack, sites web, applications web, applications mobiles, JS, PHP, SQL, ORM, frameworks, DevOps'
+            content: 'portfolio, Lê Quốc Tâm, Unity Developer, full stack , applications web, applications mobiles, C#, C++, MVC, Git, Unity'
           },
           {
             name: 'author',
-            content: 'Paul Jaguin'
+            content: 'Lê Quốc Tâm'
           },
           {
             name: 'robots',
@@ -51,11 +51,11 @@ const router = createRouter({
           },
           {
             name: 'apple-mobile-web-app-title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Lê Quốc Tâm - Unity Developer'
           },
           {
             name: 'application-name',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Lê Quốc Tâm -  Unity Developer'
           },
           {
             name: 'twitter:card',
@@ -63,12 +63,12 @@ const router = createRouter({
           },
           {
             name: 'twitter:title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Lê Quốc Tâm -  Unity Developer'
           },
           {
             name: 'twitter:description',
             content:
-              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              " Unity Developer passionate about creating engaging 2D gameplay experiences. Proficient in C# and Unity with hands-on experience in building game systems, multiplayer mechanics (Netcode for GameObjects), and data-driven tools (ScriptableObject, State Pattern). Demonstrated ability to design and implement UI/UX, animation rigging, and game logic.  Familiar with asynchronous programming and fundamental data structures. Strong problem-solving mindset, fast learner, and committed to delivering clean, scalable, and maintainable code.."
           },
           {
             name: 'twitter:image',
@@ -84,16 +84,16 @@ const router = createRouter({
           },
           {
             property: 'og:title',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Lê Quốc Tâm -  Unity Developer'
           },
           {
             property: 'og:description',
             content:
-              "Découvrez le portfolio de Paul Jaguin, développeur web full stack passionné, Création de sites et applications web et mobiles avec JS, PHP, SQL et leurs frameworks, ainsi qu'en DevOps."
+              " Unity Developer passionate about creating engaging 2D gameplay experiences. Proficient in C# and Unity with hands-on experience in building game systems, multiplayer mechanics (Netcode for GameObjects), and data-driven tools (ScriptableObject, State Pattern). Demonstrated ability to design and implement UI/UX, animation rigging, and game logic.  Familiar with asynchronous programming and fundamental data structures. Strong problem-solving mindset, fast learner, and committed to delivering clean, scalable, and maintainable code.."
           },
           {
             property: 'og:site_name',
-            content: 'Portfolio | Paul Jaguin - Développeur Web'
+            content: 'Portfolio | Lê Quốc Tâm -  Unity Developer'
           },
           {
             property: 'og:url',
@@ -123,7 +123,7 @@ const router = createRouter({
       name: 'Office',
       component: Office,
       meta: {
-        title: 'Bureau | Paul Jaguin - Développeur Web',
+        title: 'Porfolio | Lê Quốc Tâm - Unity Developer',
         metaTags: [
           {
             rel: 'canonical',
@@ -131,7 +131,7 @@ const router = createRouter({
           },
           {
             name: 'title',
-            content: 'Bureau | Paul Jaguin - Développeur Web'
+            content: 'Quốc Tâm - Unity Developer'
           },
           {
             name: 'description',
@@ -144,7 +144,7 @@ const router = createRouter({
           },
           {
             name: 'author',
-            content: 'Paul Jaguin'
+            content: 'Quốc Tâm - Unity Developer'
           },
           {
             name: 'robots',

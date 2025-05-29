@@ -90,6 +90,29 @@
           "isActive": false
         }
       ]
+    },
+    {
+      "name": {
+        "en": "Games",
+        "fr": "Games"
+      },
+      "projects": [
+        {
+          "name": "2D Game Strategy",
+          "icon": "projects/homeserver-icon.webp",
+          "title": {
+            "en": "Exorcist PVZ Unity - Inspired by Plant vs Zombie",
+            "fr": "Exorcist PVZ Unity - Inspired by Plant vs Zombie"
+          },
+          "date": {
+            "en": "June 2024 - August 2024",
+            "fr": "June 2024 - August 2024"
+          },
+          "componentName": "ExcorcistContent",
+          "isFocus": false,
+          "isActive": false
+        }
+      ]
     }
   ]
 }
